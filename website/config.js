@@ -32,7 +32,8 @@ var networkStat = {
     ],
     "coal": [
         ["coal.mypool.online", "http://coal.mypool.online:7704"],
-        ["democats.org", "http://pool.democats.org:7703"]
+        ["democats.org", "http://pool.democats.org:7703"],
+        ["coal.mine2gether.com", "https://coal.mine2gether.com/api"]
     ],
     "dsh": [
         ["dsh.mypool.online", "http://dsh.mypool.online:29084"],
